@@ -2,12 +2,9 @@
 /* CSS Document */
 
 body {
-  font-family: "Gerogia", serif;
+  font-family: "Gorgia", serif;
   color: black;
   line-height: 140%;
-  margin-top: 30px;
-    margin-bottom: 30px;
-    margin-right: 30px;
-    margin-left: 30px;
-    background-image: url("page-bg.gif");
+  margin: 30px;
+  background-image: url("page-bg.gif");
 }
