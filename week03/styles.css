@@ -74,53 +74,50 @@ nav a:hover {
   padding: 10px;
 }
 
-<footer>
+footer{
 
 clear: both;
 text-align: center;
+}
 
- </footer>
 
-
-<footer><li>
-
+footer{
   display: inline;
   padding: 10px;
+}
 
- </li></footer>
 
-
-global h1 {
+h1 {
   color: #8C9273;
 }
 
-global h2 {
+h2 {
   border-left: 20px solid #8C9273;
   border-bottom: 5px solid #8C9273;
-  padding-left: 5px
+  padding-left: 5px;
 }
 
 
-global h3 {
+h3 {
   background-image: url("header-star-1.gif");
   background-repeat: no-repeat;
   padding-left: 20px;
 }
 
-global blockquote {
+blockquote {
   background-color: #FFE597;
 }
 
 
-<ul>
+ul {
 list-style-type: square;
-</ul>
+}
 
-global a {
+a {
   color: #7C1A00;
   font-weight: bold;
 }
 
-global a:hover {
+a:hover {
   background-color: #FFE597;
 }
