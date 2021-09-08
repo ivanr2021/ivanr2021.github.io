@@ -75,13 +75,12 @@ nav a:hover {
 }
 
 footer{
-
-clear: left;
-text-align: center;
+  clear: left;
+  text-align: center;
 }
 
 
-footer{
+footer li {
   display: inline;
   padding: 10px;
 }
