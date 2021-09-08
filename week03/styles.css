@@ -21,6 +21,7 @@ header h1 {
   padding-left: 120px;
   background-image: url("header-image-1.gif");
   background-repeat: no-repeat;
+  background-attachment: fixed;
 
 }
 #container {
@@ -74,6 +75,7 @@ nav a:hover {
   border-color: #CCCCCC;
   margin-left: 180px;
   padding: 10px;
+
 }
 
 footer{
