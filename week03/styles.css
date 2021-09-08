@@ -21,7 +21,6 @@ header h1 {
   padding-left: 120px;
   background-image: url("header-image-1.gif");
   background-repeat: no-repeat;
-  background-attachment: fixed;
 
 }
 #container {
@@ -42,8 +41,8 @@ nav ul {
 
 nav li {
   margin-top: 10px;
-  margin-right: 10px;
   margin-bottom: 10px;
+  margin-right: 10px;
   margin-left: 10px;
   border: 1px;
   border-style: solid;
@@ -70,21 +69,19 @@ nav a:hover {
 
 #content {
   background-image: url("trans-bg.gif");
-  border: 1px;
-  border-style: solid;
-  border-color: #CCCCCC;
+  border: 1px solid #CCCCCC;
   margin-left: 180px;
   padding: 10px;
-
 }
 
 footer{
-  clear: left;
-  text-align: center;
+
+clear: both;
+text-align: center;
 }
 
 
-footer li {
+footer{
   display: inline;
   padding: 10px;
 }
