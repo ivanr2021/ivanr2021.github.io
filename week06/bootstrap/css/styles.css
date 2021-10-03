@@ -3415,7 +3415,7 @@ textarea.form-control-lg {
 
 .btn-outline-light {
   color: #f8f9fa;
-  border-color: #f8f9fa;
+  border-color: purple;
 }
 .btn-outline-light:hover {
   color: #000;
